@@ -22,7 +22,7 @@ import adactin.urbest.webpages.Login_Page;
 
 public class Verify_Login{
 	public static WebDriver driver=null;
-	//Method to open browser and load the url for urbest. This needs to be executed
+	//Method to open browser and load the url for urbest. This needs to be executed before every test
 	@BeforeTest
 	public static void Prior_to_Signon() throws IOException
 	
@@ -39,7 +39,7 @@ public class Verify_Login{
 			driver.findElement(By.xpath("/html/body/div[2]/section/div/div/a/i")).click();
 	 }
 	
-	
+	//Method to login to the urbest application
 	@Test(priority=1)
 	public static void Verify_Sign_On() throws IOException
 			
