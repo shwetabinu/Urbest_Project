@@ -39,7 +39,7 @@ public class Verify_Login{
 			driver.findElement(By.xpath("/html/body/div[2]/section/div/div/a/i")).click();
 	 }
 	
-	//Method to login to the urbest application
+	//Method to login to the urbest application to view the home page
 	@Test(priority=1)
 	public static void Verify_Sign_On() throws IOException
 			
