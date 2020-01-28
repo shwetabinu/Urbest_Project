@@ -14,12 +14,12 @@ import adactin.urbest.util.Browser_Factory;
 import adactin.urbest.util.Common_Util;
 import adactin.urbest.webpages.Login_Page;
 
-
+@Test
 public class Verify_Login{
 	public static WebDriver driver=null;
 	public static void main(String args[]) throws IOException
 			{
-			FileInputStream fis=new FileInputStream("/Users/aswinvijayan/git/Urbest_Project/Urbest/Test_data/Usercredentials.properties");
+			FileInputStream fis=new FileInputStream("/Users/aswinvijayan/git/Urbest_Project/Urbest/Testdata/Usercredentials.properties");
 			Properties P=new Properties();
 			P.load(fis);
 			String bname=P.getProperty("browser_name");

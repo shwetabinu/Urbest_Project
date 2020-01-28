@@ -12,7 +12,7 @@ public class Browser_Factory {
 	{
 		if(bn.equalsIgnoreCase("Chrome"))
 				{
-			System.setProperty("webdriver.chrome.driver", "Users/aswinvijayan/git/Urbest_Project/Urbest/All_browser_exes/chromedriver");
+			System.setProperty("webdriver.chrome.driver", "/Users/aswinvijayan/git/Urbest_Project/Urbest/All_browser_exes/chromedriver");
 				driver=new ChromeDriver();
 				driver.manage().window().maximize();
 				driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
