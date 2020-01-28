@@ -22,7 +22,7 @@ import adactin.urbest.webpages.Login_Page;
 
 public class Verify_Login{
 	public static WebDriver driver=null;
-	//Method to open browser and load the url
+	//Method to open browser and load the url for urbest. This needs to be executed
 	@BeforeTest
 	public static void Prior_to_Signon() throws IOException
 	
