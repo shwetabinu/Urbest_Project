@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Smoket Test suite">
-<!-- Testcase to verify if the user can sign in successfully -->
-  <test name="Verifying signon">
+<suite name="Smoke Test suite">
+<!-- Testcase to verify if the user can sign in successfully 
+Login should include the following fields:
+User name - Should be Alphabets aA-zZ minimum 8 and max 16 digits. 
+Password - Should accept alphanumeric characters and masked minimum 8 and max 16 digits. 
+Login button should be clickable
+-->
+  <test name="Verifying signon by entering valid userid and password">
   	<classes>
   		<class name="Verify_Login"/>
   	</classes>

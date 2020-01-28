@@ -10,6 +10,7 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -21,6 +22,7 @@ import adactin.urbest.webpages.Login_Page;
 
 public class Verify_Login{
 	public static WebDriver driver=null;
+	//Method to open browser and load the url
 	@BeforeTest
 	public static void Prior_to_Signon() throws IOException
 	
@@ -32,12 +34,13 @@ public class Verify_Login{
 			driver=Browser_Factory.getBrowser(bname);
 			String url=P.getProperty("url");
 			Browser_Factory.openurl(url);
+			
 			driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 			driver.findElement(By.xpath("/html/body/div[2]/section/div/div/a/i")).click();
 	 }
 	
 	
-	@Test
+	@Test(priority=1)
 	public static void Verify_Sign_On() throws IOException
 			
 	{	    
@@ -51,6 +54,12 @@ public class Verify_Login{
 			}
 			
 	
-			}
+			
 
+	@AfterTest
+	public static void Close_Browser()
+	{
+		driver.close();
+	}
+}
 
