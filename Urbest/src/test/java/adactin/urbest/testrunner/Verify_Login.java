@@ -34,7 +34,6 @@ public class Verify_Login{
 			driver=Browser_Factory.getBrowser(bname);
 			String url=P.getProperty("url");
 			Browser_Factory.openurl(url);
-			
 			driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
 			driver.findElement(By.xpath("/html/body/div[2]/section/div/div/a/i")).click();
 	 }
