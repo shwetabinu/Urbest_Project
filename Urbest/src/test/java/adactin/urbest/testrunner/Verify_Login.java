@@ -10,50 +10,93 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import adactin.urbest.base.BaseClass;
 import adactin.urbest.util.Browser_Factory;
 import adactin.urbest.util.Common_Util;
+import adactin.urbest.webpages.Dashboard;
 import adactin.urbest.webpages.Home_Page;
+
+
 import adactin.urbest.webpages.Login_Page;
 
+/**
+ * 
+ * Testcase to verify the login functionality of the urbest application. The flow is as follows:
+ * It initializes the browser. 
+ * Closes the subscription pop-up.
+ * Clicks on Login, enter the user details and click on submit
+ * Verifies if the link at the top has changed to "Logout" 
+ * @author aswinvijayan
+ *
+ */
 
-public class Verify_Login{
-	public static WebDriver driver=null;
-	//Method to open browser and load the url for urbest. This needs to be executed before every test
+public class Verify_Login extends BaseClass{
+	
+	/**
+	 * Initializing @param db
+	 * @param hp1
+	 * @param lp
+	 */
+	static Dashboard db;
+	static Home_Page hp1;
+	static Login_Page lp;
+	
+	public Verify_Login() throws IOException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	/**
+	 * Initializes the browser and loads the websire url
+	 * @throws IOException
+	 */
 	@BeforeTest
-	public static void Prior_to_Signon() throws IOException
+	public void Prior_to_Signon() throws IOException
 	
 		{
-			FileInputStream fis=new FileInputStream("/Users/aswinvijayan/git/Urbest_Project/Urbest/Testdata/config.properties");
-			Properties P=new Properties();
-			P.load(fis);
-			String bname=P.getProperty("browser_name");
-			driver=Browser_Factory.getBrowser(bname);
-			String url=P.getProperty("url");
-			Browser_Factory.openurl(url);
-			driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-			driver.findElement(By.xpath("/html/body/div[2]/section/div/div/a/i")).click();
+		initBrowser();
+		db=new Dashboard();
+		
+		 
 	 }
+	
+	/**
+	 * Verifies if the Sign-on functionality is working when valid username and password is given and submitted. It verifies the following actions:
+	 * Clicks on Login, enter the user details and click on submit
+	 * Verifies if the link at the top has changed to "Logout" 
+	 * @throws IOException
+	 */
 	
 	//Method to login to the urbest application to view the home page
 	@Test(priority=1)
 	public static void Verify_Sign_On() throws IOException
 			
-	{	    
-			Home_Page hp=PageFactory.initElements(driver, Home_Page.class);
-			hp.clickonlogin();
-			String userid=Common_Util.getProperties("Usercredentials", "UserName");
-			String passw=Common_Util.getProperties("Usercredentials", "Password");
-			Login_Page lp=PageFactory.initElements(driver, Login_Page.class);
-			lp.enteruserdetails(userid, passw);
-			lp.signin();
-			}
-			
+	{ 
+		//Clicking on close popup button on the home page
+		db.closepopup();
+		//clicking on login button 
+		db.clickonlogin();
+		lp=new Login_Page();
+		//Entering the user details in the Login page
+		lp.enteruserdetails();
+		//Clicking on sign in to login to the application
+		lp.signin();
+		hp1=new Home_Page();
+		String text=hp1.verifyifloggedin();
+		Assert.assertEquals(text, "LOGOUT");
+		
+		
 	
-			
+	}
+	
+	/**
+	* Closes the browser after the execution of test	
+	*/
 
 	@AfterTest
 	public static void Close_Browser()

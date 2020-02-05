@@ -4,6 +4,11 @@ import java.io.IOException;
 
 import adactin.urbest.base.BaseClass;
 
+/**
+ * Sets the page load timeout time and the implicit wait time
+ * @author aswinvijayan
+ *
+ */
 public class UtilityClass extends BaseClass
 {
 	public UtilityClass() throws IOException

@@ -6,6 +6,7 @@
       <class name="adactin.urbest.testrunner.Verify_Login">
         <methods>
           <include name="Verify_Sign_On"/>
+          <include name="Close_Browser"/>
           <include name="Prior_to_Signon"/>
         </methods>
       </class> <!-- adactin.urbest.testrunner.Verify_Login -->
