@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="adactin.urbest.testrunner.Verify_Login">
+      <class name="adactin.urbest.testrunner.Verify_Login_With_invalid_password">
         <methods>
-          <include name="Verify_Sign_On"/>
-          <include name="Close_Browser"/>
+          <include name="Verify_Sign_On_With_Invalid_Password"/>
           <include name="Prior_to_Signon"/>
+          <include name="Close_Browser"/>
         </methods>
-      </class> <!-- adactin.urbest.testrunner.Verify_Login -->
+      </class> <!-- adactin.urbest.testrunner.Verify_Login_With_invalid_password -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
