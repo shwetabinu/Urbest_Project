@@ -3,11 +3,15 @@ package adactin.urbest.webpages;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
+import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import adactin.urbest.base.BaseClass;
@@ -90,6 +94,11 @@ public class Login_Page extends BaseClass{
 		password.sendKeys(passw);
 	}
 	
+	/*public void enterinvaliduserdetails()
+	{
+		
+	}
+	*/
 	/**
 	 * Method is used to click on the Submit link, so that the user can login successfully
 	 */
@@ -133,6 +142,28 @@ public class Login_Page extends BaseClass{
 	{
 		forgotPwd.click();
 		Assert.assertEquals(true, "Forgot Password Link Available and functional");
+	}
+	
+	public String getalertmessage()
+	{
+		
+		//WebDriverWait wait=new WebDriverWaitnull, null, null, 0, 0 wait(driver,20);
+		//WebDriverWait wait;
+		//wait=new WebDriverWait(driver,20);
+		//wait.until(ExpectedConditions.alertIsPresent());
+		//driver.switchTo().alert();
+	//Alert alt=new Alert();
+	//alt=new Alert();
+	
+		
+		String errormessage=driver.findElement(By.xpath("//h2[@id='swal2-title']//div[@class='alert alert-danger'][contains(text(),'Wrong username or password.')]")).getText();
+		//alt.accept();
+		return errormessage;
+	}
+	public String getactualalertmessage() throws IOException
+	{
+		String aem=Common_Util.getProperties("Errormessages","errorlogin");
+		return aem;
 	}
 	
 }

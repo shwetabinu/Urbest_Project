@@ -16,6 +16,6 @@ public class UtilityClass extends BaseClass
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public static long PAGE_LOAD_TIMEOUT = 20;
-	public static long IMPLCIT_WAIT = 10;
+	public static long PAGE_LOAD_TIMEOUT = 50;
+	public static long IMPLCIT_WAIT = 100;
 }

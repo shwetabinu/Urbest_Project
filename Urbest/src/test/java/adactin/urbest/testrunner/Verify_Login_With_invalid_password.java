@@ -1,52 +1,25 @@
 package adactin.urbest.testrunner;
 
+import static org.testng.Assert.assertEquals;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.Properties;
-import java.util.concurrent.TimeUnit;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import adactin.urbest.base.BaseClass;
-import adactin.urbest.util.Browser_Factory;
-import adactin.urbest.util.Common_Util;
 import adactin.urbest.webpages.Dashboard;
 import adactin.urbest.webpages.Home_Page;
-
-
 import adactin.urbest.webpages.Login_Page;
 
-/**
- * 
- * Testcase to verify the login functionality of the urbest application. The flow is as follows:
- * It initializes the browser. 
- * Closes the subscription pop-up.
- * Clicks on Login, enter the user details and click on submit
- * Verifies if the link at the top has changed to "Logout" 
- * @author aswinvijayan
- *
- */
-
-public class Verify_Login extends BaseClass{
-	
-	/**
-	 * Initializing @param db
-	 * @param hp1
-	 * @param lp
-	 */
+public class Verify_Login_With_invalid_password extends BaseClass {
 	static Dashboard db;
 	static Home_Page hp1;
 	static Login_Page lp;
 	
-	public Verify_Login() throws IOException {
+	public Verify_Login_With_invalid_password() throws IOException {
 		super();
 		// TODO Auto-generated constructor stub
 	}
@@ -74,9 +47,11 @@ public class Verify_Login extends BaseClass{
 	
 	//Method to login to the urbest application to view the home page
 	@Test(priority=1)
-	public static void Verify_Sign_On() throws IOException
+	public static void Verify_Sign_On_With_Invalid_Password() throws IOException
 			
-	{ 
+	{ String erm;
+	String aem;
+	
 		//Clicking on close popup button on the home page
 		db.closepopup();
 		//clicking on login button 
@@ -86,17 +61,20 @@ public class Verify_Login extends BaseClass{
 		lp.enteruserdetails();
 		//Clicking on sign in to login to the application
 		lp.signin();
-		hp1=new Home_Page();
-		String text=hp1.verifyifloggedin();
-		Assert.assertEquals(text, "LOGOUT");
+		erm=lp.getalertmessage();	
+		aem=lp.getactualalertmessage();
+		Assert.assertEquals(erm, aem);
+		
+		/*String text=hp1.verifyifloggedin();
+		Assert.assertEquals(text, "LOGOUT");*/
 		
 		
 	
 	}
 	
 	/**
-	* Closes the browser after the execution of test	
-	*/
+	 * 
+	 */
 
 	@AfterTest
 	public static void Close_Browser()
@@ -104,4 +82,7 @@ public class Verify_Login extends BaseClass{
 		driver.close();
 	}
 }
+
+
+
 

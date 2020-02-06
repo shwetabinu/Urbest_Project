@@ -79,10 +79,10 @@ public class BaseClass
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("--disable-notifications");
 		TestDataReader td=new TestDataReader();
-		String brwName=td.readdata("Common_Test_Data", 2, 4);
-		String brwmode=td.readdata("Common_Test_Data", 2, 5);
-		//String brwName = prop.getProperty("browser_name");
-		//String brwmode=prop.getProperty("mode");
+		//String brwName=td.readdata("Common_Test_Data", 2, 4);
+		//String brwmode=td.readdata("Common_Test_Data", 2, 5);
+		String brwName = prop.getProperty("browser_name");
+		String brwmode=prop.getProperty("mode");
 		//BrowserFactory(brwName, brwmode,options);
 	//}
 		

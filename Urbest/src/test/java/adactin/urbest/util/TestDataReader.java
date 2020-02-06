@@ -27,6 +27,7 @@ public class TestDataReader {
  * @return
  * @throws IOException
  */
+	/*
 	public String readdata(String Sheetname,int rno,int celno) throws IOException
 	{
 		FileInputStream fis=new FileInputStream("Testdata/TestDataUrbest.xlsx");
@@ -36,5 +37,5 @@ public class TestDataReader {
 		return value;
 		
 	}
-
+*/
 }
