@@ -162,6 +162,7 @@ public class Dashboard extends BaseClass{
 	
 	/**
 	 * Link to book an appointment
+	 * 
 	 */
 	@FindBy(linkText="Book An Appointment")
 	WebElement bookapp;
