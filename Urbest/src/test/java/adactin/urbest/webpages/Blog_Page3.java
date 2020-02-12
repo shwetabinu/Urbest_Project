@@ -10,69 +10,69 @@ import adactin.urbest.base.BaseClass;
 import adactin.urbest.util.ExcelUtil;
 import adactin.urbest.util.Log;
 
-public class Blog_Page2 extends BaseClass{
+public class Blog_Page3 extends BaseClass{
 	String s;
 	String pgno;
-	public Blog_Page2() throws IOException
+	
+	public Blog_Page3() throws IOException
 	{
 		PageFactory.initElements(driver, this);
 	}
-
-	@FindBy(partialLinkText="All You Ever Wanted To Know")
+	@FindBy(partialLinkText="Inspired By My Passion For Greatness")
 	WebElement article1;
 
 	@FindBy(xpath="//div[1]/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
 	WebElement article1rc;
 
-	@FindBy(partialLinkText="What Is Judgement?")
+	@FindBy(partialLinkText="Create The JOYFUL Future You Want With Right HABITS?")
 	WebElement article2;
 
 	@FindBy(xpath="//div[2]/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
 	WebElement article2rc;
 
-	@FindBy(partialLinkText="Are You Ready………")
+	@FindBy(partialLinkText="Fear!!! Let It Go Easily And Effortlessly.")
 	WebElement article3;
 
 	@FindBy(xpath="//div[@safeclass~'\\bcategory-blog-2\\b.*\\bcategory-news\\b.*\\bformat-standard\\b.*\\bhentry\\b.*\\bpost\\b.*\\bstatus-publish\\b.*\\btype-post\\b']/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
 	WebElement article3rc;
 
-	@FindBy(partialLinkText="Hard To Focus")
+	@FindBy(partialLinkText="Hello World!")
 	WebElement article4;
 
 	@FindBy(xpath="//div[@safeclass~'\\bcategory-blog-2\\b.*\\bcategory-news\\b.*\\bformat-gallery\\b.*\\bhentry\\b.*\\bpost\\b.*\\bpost_format-post-format-gallery\\b.*\\bstatus-publish\\b.*\\btype-post\\b']/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
 	WebElement article4rc;
 
-	@FindBy(partialLinkText="Open Yourself To Be The Best.")
+	@FindBy(partialLinkText="What Is A Results Life Coach?")
 	WebElement article5;
 
 	@FindBy(xpath="//div[5]/div[@safeclass~'\brow\b']/div[@safeclass~'\bblog-list-view\b']/div[@safeclass~'\bblog-meta\b']/a[@innertext='Reading Continue']")
 	WebElement article5rc;
 
-	@FindBy(partialLinkText="I Know, You Know You Can Do It")
+	@FindBy(partialLinkText="Achieve With Power Of Your Mind. – Pooja Sethi")
 	WebElement article6;
 
 	@FindBy(xpath="//div[6]/div[@safeclass~'\brow\b']/div[@safeclass~'\bblog-list-view\b']/div[@safeclass~'\bblog-meta\b']/a[@innertext='Reading Continue']")
 	WebElement article6rc;
 
-	@FindBy(partialLinkText="NLP & Unconscious Mind")
+	@FindBy(partialLinkText="What Can You Expect?")
 	WebElement article7;
 
 	@FindBy(xpath="//div[7]/div[@safeclass~'\brow\b']/div[@safeclass~'\bblog-list-view\b']/div[@safeclass~'\bblog-meta\b']/a[@innertext='Reading Continue']")
 	WebElement article7rc; 
 
-	@FindBy(partialLinkText="Evaluate Yourself")
+	@FindBy(partialLinkText="What Is A Results Life Coach?")
 	WebElement article8;
 
 	@FindBy(xpath="//div[8]/div[@safeclass~'\brow\b']/div[@safeclass~'\bblog-list-view\b']/div[@safeclass~'\bblog-meta\b']/a[@innertext='Reading Continue']")
 	WebElement article8rc;
 
-	@FindBy(partialLinkText="Remove Conflicts")
+	@FindBy(partialLinkText="Life Coach Vs. Therapist")
 	WebElement article9;
 
 	@FindBy(xpath="//div[9]/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
 	WebElement article9rc;
 
-	@FindBy(partialLinkText="Passion For Greatness")
+	@FindBy(partialLinkText="How To Find A Life Coach You Love")
 	WebElement article10;
 
 	@FindBy(xpath="//div[10]/div[@safeclass~'\\brow\\b']/div[@safeclass~'\\bblog-list-view\\b']/div[@safeclass~'\\bblog-meta\\b']/a[@innertext='Reading Continue']")
@@ -82,8 +82,8 @@ public class Blog_Page2 extends BaseClass{
 	@FindBy(linkText="1")
 	WebElement firstpage;
 
-	@FindBy(linkText="3")
-	WebElement thirdpage;
+	@FindBy(linkText="2")
+	WebElement secondpage;
 
 	@FindBy(linkText="4")
 	WebElement fourthpage;
@@ -103,29 +103,29 @@ public class Blog_Page2 extends BaseClass{
 	{
 		s=ExcelUtil.getCellData(i, 5);
 		pgno=ExcelUtil.getCellData(i, 6);
-		if(pgno=="2")
+		if(pgno=="3")
 		{
 			try{
-				if(s.equalsIgnoreCase("All You Ever Wanted To Know"))
+				if(s.equalsIgnoreCase("Inspired By My Passion For Greatness"))
 
 					article1.click();
-				if(s.equalsIgnoreCase("What Is Judgement?"))
+				if(s.equalsIgnoreCase("Create The JOYFUL Future You Want With Right HABITS?"))
 					article2.click();
-				if(s.equalsIgnoreCase("Are You Ready………"))
+				if(s.equalsIgnoreCase("Fear!!! Let It Go Easily And Effortlessly."))
 					article3.click();
-				if(s.equalsIgnoreCase("Hard To Focus"))
+				if(s.equalsIgnoreCase("Hello World!"))
 					article4.click();
-				if(s.equalsIgnoreCase("Open Yourself To Be The Best."))
+				if(s.equalsIgnoreCase("What Is A Results Life Coach?"))
 					article5.click();
-				if(s.equalsIgnoreCase("I Know, You Know You Can Do It"))
+				if(s.equalsIgnoreCase("Achieve With Power Of Your Mind. – Pooja Sethi"))
 					article6.click();
-				if(s.equalsIgnoreCase("NLP & Unconscious Mind"))
+				if(s.equalsIgnoreCase("What Can You Expect?"))
 					article7rc.click();
-				if(s.equalsIgnoreCase("Evaluate Yourself"))
+				if(s.equalsIgnoreCase("What Is A Results Life Coach?"))
 					article8.click();
-				if(s.equalsIgnoreCase("Remove Conflicts"))
+				if(s.equalsIgnoreCase("Life Coach Vs. Therapist"))
 					article9.click();
-				if(s.equalsIgnoreCase("Passion For Greatness"))
+				if(s.equalsIgnoreCase("How To Find A Life Coach You Love"))
 					article10.click();
 				else if(s.isEmpty())
 					Log.error("Sorry empty argument");
@@ -150,30 +150,30 @@ public class Blog_Page2 extends BaseClass{
 	{
 		s=ExcelUtil.getCellData(i, 6);
 		pgno=ExcelUtil.getCellData(i, 6);
-		if(pgno=="2")
+		if(pgno=="3")
 		{
 
 			try{
-				if(s.equalsIgnoreCase("All You Ever Wanted To Know"))
+				if(s.equalsIgnoreCase("Inspired By My Passion For Greatness"))
 
 					article1rc.click();
-				if(s.equalsIgnoreCase("What Is Judgement?"))
+				if(s.equalsIgnoreCase("Create The JOYFUL Future You Want With Right HABITS?"))
 					article2rc.click();
-				if(s.equalsIgnoreCase("Are You Ready………"))
+				if(s.equalsIgnoreCase("Fear!!! Let It Go Easily And Effortlessly."))
 					article3rc.click();
-				if(s.equalsIgnoreCase("Hard To Focus"))
+				if(s.equalsIgnoreCase("Hello World!"))
 					article4rc.click();
-				if(s.equalsIgnoreCase("Open Yourself To Be The Best."))
+				if(s.equalsIgnoreCase("What Is A Results Life Coach?"))
 					article5rc.click();
-				if(s.equalsIgnoreCase("I Know, You Know You Can Do It"))
+				if(s.equalsIgnoreCase("Achieve With Power Of Your Mind. – Pooja Sethi"))
 					article6rc.click();
-				if(s.equalsIgnoreCase("NLP & Unconscious Mind"))
+				if(s.equalsIgnoreCase("What Can You Expect?"))
 					article7rc.click();
-				if(s.equalsIgnoreCase("Evaluate Yourself"))
+				if(s.equalsIgnoreCase("What Is A Results Life Coach?"))
 					article8rc.click();
-				if(s.equalsIgnoreCase("Remove Conflicts"))
+				if(s.equalsIgnoreCase("Life Coach Vs. Therapist"))
 					article9rc.click();
-				if(s.equalsIgnoreCase("Passion For Greatness"))
+				if(s.equalsIgnoreCase("How To Find A Life Coach You Love"))
 					article10rc.click();
 				else if(s.isEmpty())
 					Log.error("Sorry not able to identify the string");;
@@ -205,7 +205,7 @@ public class Blog_Page2 extends BaseClass{
 		}
 
 	}
-
+	
 	public void navigatetoprevpage()
 	{
 		try{
@@ -218,7 +218,7 @@ public class Blog_Page2 extends BaseClass{
 		}
 
 	}
-	
+
 	/**
 	 * Method to navigate to the nth page depending on the input
 	 * @param i Row number where the test case is written
@@ -228,13 +228,13 @@ public class Blog_Page2 extends BaseClass{
 	{
 		s=ExcelUtil.getCellData(i, 6);
 		pgno=ExcelUtil.getCellData(i, 6);
-		if(pgno=="2")
+		if(pgno=="3")
 		{
 			try{
 				if(s.equalsIgnoreCase("1"))
 					firstpage.click();
-				if(s.equalsIgnoreCase("3"))
-					thirdpage.click();
+				if(s.equalsIgnoreCase("2"))
+					secondpage.click();
 				if(s.equalsIgnoreCase("4"))
 					fourthpage.click();
 
@@ -248,4 +248,7 @@ public class Blog_Page2 extends BaseClass{
 	}
 
 }
+
+
+	
 

@@ -68,7 +68,7 @@ public class Login_Page extends BaseClass{
 	@FindBy(xpath="//button[contains(text(),'Login Now')]")
 	WebElement submit;
 
-	//private static WebDriver driver=null;
+
 
 	/**
 	 * Constructor to initialize the Login page and the load the driver
@@ -107,21 +107,15 @@ public class Login_Page extends BaseClass{
 		}
 	}
 
-	/*public void enterinvaliduserdetails()
-	{
 
-	}
-	 */
 	/**
 	 * Method is used to click on the Submit link, so that the user can login successfully
 	 */
 	public void signin()
 	{
-		/*WebDriverWait wait;
-		wait=new WebDriverWait(driver,20);
-		wait.until(ExpectedConditions.elementToBeClickable(submit));*/
-		submit.click();
-		//driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
+			submit.click();
+			Log.info("Clicking the signin button");
+		
 	}
 
 	/**
@@ -147,7 +141,15 @@ public class Login_Page extends BaseClass{
 	 */
 	public void validateCheckBox()
 	{
-		remember.click();
+		try
+		{
+			remember.click();
+			Log.info("Clicking on Remember link");
+		}
+		catch(Exception e)
+		{
+			Log.error("Unable to click on remember details link");
+		}
 	}
 
 	/**
@@ -159,38 +161,51 @@ public class Login_Page extends BaseClass{
 		WebDriverWait wait;
 		wait=new WebDriverWait(driver,20);
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.className("forgot")));
-		forgotPwd.click();
-		//Assert.assertEquals(true, "Forgot Password Link Available and functional");
+
+		try
+		{
+			forgotPwd.click();
+			Log.info("Clicking on forgot password link");
+		}
+		catch(Exception e)
+		{
+			Log.error("Unable to click on forgot password link");
+		}
 	}
 
 	public String getactualalertmessageforwrongpassword()
 	{
 
-
+		String errormessage=null;
 		//h2[#'swal2-title']/div[@innertext='Wrong username or password.']
 		WebDriverWait wait;
 		wait=new WebDriverWait(driver,20);
 		wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//h2[@id='swal2-title']//div[@class='alert alert-danger'][contains(text(),'Wrong username or password.')]")));
 
-
-		String errormessage=driver.findElement(By.xpath("//h2[@id='swal2-title']//div[@class='alert alert-danger'][contains(text(),'Wrong username or password.')]")).getText();
-		//alt.accept();
+		try
+		{
+			errormessage=driver.findElement(By.xpath("//h2[@id='swal2-title']//div[@class='alert alert-danger'][contains(text(),'Wrong username or password.')]")).getText();
+			Log.info("Reading the error message displayed");
+		}
+		catch(Exception e)
+		{
+			Log.error("Unable to read the error message");
+		}
 		return errormessage;
 	}
-	/*public String getactualalertmessageforcorrectpassword()
-	{
-
-		//h2[#'swal2-title']/div[@innertext='Wrong username or password.']
-
-		String errormessage=driver.findElement(By.xpath("//h2[@id='swal2-title']//div[@class='alert alert-success'][contains(text(),'Login successful,redirecting...')]")).getText();
-		//alt.accept();
-		return errormessage;
-	}*/
-
 
 	public String getexpectedalertmessage(int r) throws Exception
 	{
-		String aem=ExcelUtil.getCellData(r,5);
+		String aem=null;
+		try
+		{
+			aem=ExcelUtil.getCellData(r,5);
+			Log.info("Reading the actual error message from Testcase sheet");
+		}
+		catch(Exception e)
+		{
+			Log.error("Unable to read the error message");
+		}
 		return aem;
 	}
 
