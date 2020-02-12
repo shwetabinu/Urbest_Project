@@ -20,14 +20,32 @@ public class Common_Util {
 	 * @return
 	 * @throws IOException
 	 */
-	public static String getProperties(String fname, String key) throws IOException
+	public static String getProperties(String fname, String key) 
 	{
-		FileInputStream fis=new FileInputStream("/Users/aswinvijayan/git/Urbest_Project/Urbest/Testdata/"+fname+".properties");
+		FileInputStream fis = null;
+		String data=null;
+		try {
+			fis = new FileInputStream("/Users/aswinvijayan/git/Urbest_Project/Urbest/Testdata/"+fname+".properties");
+		} catch (FileNotFoundException e) {
+			
+			Log.error("Unable to read the file from the location");
+		}
 		Properties p=new Properties();
-		p.load(fis);
-		return p.getProperty(key);
-	
+		try {
+			p.load(fis);
+		} catch (IOException e) {
+			
+			Log.error("Unable to create an object for Properties");
+		}
 		
+		try{
+			data=p.getProperty(key);
+		}
+		catch(Exception e)
+		{
+			Log.error("Unable to read the data from the property file");
+		}
+		return data;
 	}
 
 }

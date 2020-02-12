@@ -1,6 +1,7 @@
 package adactin.urbest.webpages;
 
 import java.io.IOException;
+import adactin.urbest.util.Log;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -19,7 +20,7 @@ import adactin.urbest.base.BaseClass;
  *
  */
 public class Home_Page extends BaseClass{
-	
+
 	/**
 	 * Constructor to initialize the Home Page with the driver
 	 * @throws IOException
@@ -27,22 +28,30 @@ public class Home_Page extends BaseClass{
 	public Home_Page() throws IOException{
 		// TODO Auto-generated constructor stub
 		PageFactory.initElements(driver, this);
-	}
-	
-/**
- * link to logout from the application	
- */
-@FindBy(xpath="//a[contains(text(),'Logout')]")
-WebElement Logout_link;
-	
-/**
- * Method to verify if the user is logged in
- * @return
- */
-	public String verifyifloggedin()
-	{
-		
-		return Logout_link.getText();
+		Log.info("Initializing Home page");
 	}
 
+	/**
+	 * link to logout from the application	
+	 */
+	@FindBy(xpath="//a[contains(text(),'Logout')]")
+	WebElement Logout_link;
+
+	/**
+	 * Method to verify if the user is logged in
+	 * @return
+	 */
+	public String verifyifloggedin()
+	{
+		String text = null;
+		try {
+			text=Logout_link.getText();
+		}
+		catch(Error e)
+		{
+			Log.error("Unable to obtain the logout text");
+		}
+		return text;
+
+	}
 }

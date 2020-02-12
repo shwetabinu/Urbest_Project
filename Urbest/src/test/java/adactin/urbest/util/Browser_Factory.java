@@ -18,7 +18,7 @@ public class Browser_Factory {
 	 * @param bn
 	 * @return
 	 */
-	public static WebDriver getBrowser(String bn)
+	/*public static WebDriver getBrowser(String bn)
 	{
 		if(bn.equalsIgnoreCase("Chrome"))
 				{
@@ -36,7 +36,7 @@ public class Browser_Factory {
 				
 		
 				
-	}
+	}*/
 	
 	/**
 	 * Method to open the url

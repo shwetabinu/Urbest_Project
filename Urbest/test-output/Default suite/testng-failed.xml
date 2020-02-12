@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="adactin.urbest.testrunner.Verify_Login_With_invalid_password">
+      <class name="adactin.urbest.testscripts.To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name">
         <methods>
-          <include name="Verify_Sign_On_With_Invalid_Password"/>
-          <include name="Prior_to_Signon"/>
           <include name="Close_Browser"/>
+          <include name="Prior_to_Signon"/>
+          <include name="To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name"/>
         </methods>
-      </class> <!-- adactin.urbest.testrunner.Verify_Login_With_invalid_password -->
+      </class> <!-- adactin.urbest.testscripts.To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

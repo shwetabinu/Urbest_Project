@@ -1,0 +1,1357 @@
+2020-02-10T10:17:22.421+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:17:22.691+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T10:17:28.585+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T10:18:12.546+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:18:12.700+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T10:18:12.934+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T10:21:30.027+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:21:30.252+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T10:21:35.840+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T10:22:02.280+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:22:02.422+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T10:22:02.511+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T10:22:02.511+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T10:22:02.512+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T10:22:02.512+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T10:22:02.513+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T10:22:02.944+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T10:22:07.542+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:22:07.545+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T10:22:08.422+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T10:22:08.423+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T10:22:16.484+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T10:22:16.486+1100 |[main]| INFO | Log | X
+2020-02-10T10:22:16.486+1100 |[main]| INFO | Log | X
+2020-02-10T10:22:16.487+1100 |[main]| INFO | Log | X
+2020-02-10T10:22:16.487+1100 |[main]| INFO | Log | X
+2020-02-10T12:07:39.693+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:07:39.855+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:07:44.103+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:07:59.615+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:07:59.713+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:07:59.787+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:07:59.788+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:07:59.789+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:07:59.790+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:07:59.790+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:08:00.292+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:08:05.526+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:08:05.531+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:12:04.135+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:12:04.303+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:12:08.326+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:12:29.969+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:12:30.058+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:12:30.141+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:12:30.142+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:12:30.142+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:12:30.143+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:12:30.143+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:12:30.626+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:12:34.155+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:12:34.158+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:19:04.891+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:19:05.050+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:19:09.176+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:19:29.671+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:19:29.746+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:19:29.822+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:19:29.822+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:19:29.823+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:19:29.823+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:19:29.823+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:19:30.323+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:19:34.151+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:19:34.157+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:23:50.049+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:23:50.174+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:23:53.857+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:24:19.203+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:24:19.261+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:24:19.312+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:24:19.313+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:24:19.313+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:24:19.313+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:24:19.314+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:24:19.454+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:24:23.181+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:24:23.184+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:24:23.932+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:24:23.933+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T12:45:11.599+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:45:11.746+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:45:15.581+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:45:33.290+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:45:33.357+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:45:33.419+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:45:33.419+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:45:33.420+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:45:33.420+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:45:33.420+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:45:33.501+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:45:39.297+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:45:39.302+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:45:39.969+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:45:39.970+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T12:47:21.599+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:47:21.728+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:47:24.714+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:47:38.611+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:47:38.690+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:47:38.736+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:47:38.737+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:47:38.737+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:47:38.738+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:47:38.738+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:47:38.834+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:47:42.826+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:47:42.828+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:47:43.546+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:47:43.547+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T12:48:45.850+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:48:45.970+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T12:48:49.227+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T12:49:01.309+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:49:01.349+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T12:49:01.385+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:49:01.386+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:49:01.387+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T12:49:01.387+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:49:01.387+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T12:49:01.475+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T12:49:05.310+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:49:05.313+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T12:49:06.026+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T12:49:06.027+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T12:49:11.903+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T12:49:11.904+1100 |[main]| INFO | Log | X
+2020-02-10T12:49:11.904+1100 |[main]| INFO | Log | X
+2020-02-10T12:49:11.904+1100 |[main]| INFO | Log | X
+2020-02-10T12:49:11.904+1100 |[main]| INFO | Log | X
+2020-02-10T13:41:09.921+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:09.959+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:09.967+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:09.972+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:10.073+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:41:14.154+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:41:25.887+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:25.962+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:41:25.963+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:41:28.079+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:41:46.718+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:41:46.722+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:41:46.723+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:41:49.359+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:42:08.021+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:42:08.026+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:42:08.027+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:42:10.669+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:42:35.838+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:42:35.843+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:42:35.933+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:35.934+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:35.934+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:42:35.935+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:35.935+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:36.099+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:42:39.961+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:42:39.964+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:42:39.965+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T13:42:39.978+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:39.978+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:39.978+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:42:39.979+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:39.979+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:40.152+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:42:46.388+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:42:46.392+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:42:46.401+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:46.402+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:46.402+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:42:46.402+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:46.403+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:42:46.543+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:42:51.029+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:42:51.030+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:44:31.269+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T13:48:16.518+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:48:16.663+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:48:20.189+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:48:37.768+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:48:37.822+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:48:37.860+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:48:37.860+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:48:37.861+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:48:37.861+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:48:37.861+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:48:37.944+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:48:41.292+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:48:41.294+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:50:18.329+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:50:18.409+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:50:21.015+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:50:44.887+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:50:44.922+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:50:44.958+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:50:44.959+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:50:44.960+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:50:44.960+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:50:44.960+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:50:45.052+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:50:48.433+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:50:48.436+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:51:57.192+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:51:57.286+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:52:00.622+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:52:25.239+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:52:25.288+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:52:25.322+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:52:25.322+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:52:25.323+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:52:25.323+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:52:25.323+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:52:25.440+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:52:29.961+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:52:29.966+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:55:06.287+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:55:06.381+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:55:09.540+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:55:26.703+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:55:26.754+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:55:26.804+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:55:26.804+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:55:26.805+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:55:26.805+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:55:26.806+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:55:26.920+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:55:31.387+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:55:31.390+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T13:58:45.637+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:58:45.702+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T13:58:48.837+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T13:59:12.234+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:59:12.286+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T13:59:12.342+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:59:12.343+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:59:12.343+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T13:59:12.343+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:59:12.344+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T13:59:12.463+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T13:59:17.162+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T13:59:17.164+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:01:56.725+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:01:56.788+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:01:59.882+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:02:18.581+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:02:18.634+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:02:18.669+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:02:18.669+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:02:18.670+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:02:18.670+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:02:18.670+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:02:18.761+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:02:22.394+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:02:22.397+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:04:26.798+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:04:26.881+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:04:29.889+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:04:43.903+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:04:43.943+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:04:43.972+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:04:43.973+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:04:43.973+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:04:43.974+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:04:43.974+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:04:44.081+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:04:47.238+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:04:47.240+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:06:36.301+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:06:36.394+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:06:39.715+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:06:55.951+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:06:55.997+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:06:56.039+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:06:56.039+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:06:56.039+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:06:56.040+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:06:56.040+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:06:56.188+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:06:59.982+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:06:59.984+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:11:05.636+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:11:05.793+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:11:10.094+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:11:36.929+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:11:37.015+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:11:37.089+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:11:37.092+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:11:37.093+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:11:37.093+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:11:37.094+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:11:37.214+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:11:41.153+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:11:41.155+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:13:19.982+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:13:20.101+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:13:23.975+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:15:53.315+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:15:53.483+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:15:57.544+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:16:34.590+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:16:34.684+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:16:34.759+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:16:34.760+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:16:34.760+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:16:34.761+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:16:34.761+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:16:34.884+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:16:41.422+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:16:41.426+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:19:10.815+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:19:10.969+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:19:15.191+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:19:34.509+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:19:34.603+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:19:34.682+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:19:34.683+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:19:34.683+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:19:34.683+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:19:34.683+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:19:34.816+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:19:37.808+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:19:37.810+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:20:00.569+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:20:00.692+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:20:03.789+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:20:20.071+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:20:20.101+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:20:20.130+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:20:20.130+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:20:20.131+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:20:20.131+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:20:20.131+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:20:20.255+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:20:23.867+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:20:23.869+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:20:55.782+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:20:55.854+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:20:58.749+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:21:15.027+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:21:15.064+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:21:15.094+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:21:15.094+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:21:15.095+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:21:15.095+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:21:15.095+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:21:15.210+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:21:19.864+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:21:19.866+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:21:50.952+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:21:51.032+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:21:54.337+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:22:06.536+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:22:06.574+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:22:06.604+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:22:06.604+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:22:06.605+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:22:06.605+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:22:06.605+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:22:06.727+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:22:10.985+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:22:10.989+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:24:45.257+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:24:45.377+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:24:49.052+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:25:12.714+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:25:12.757+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:25:12.791+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:25:12.791+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:25:12.792+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:25:12.792+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:25:12.792+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:25:12.980+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:25:16.661+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:25:16.665+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:32:34.857+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:32:35.026+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:32:39.433+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:32:58.598+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:32:58.687+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:32:58.775+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:32:58.776+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:32:58.776+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:32:58.777+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:32:58.777+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:32:58.925+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:33:06.569+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:33:06.571+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:34:41.876+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:34:42.004+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:34:45.765+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:34:58.879+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:34:58.918+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:34:58.954+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:34:58.954+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:34:58.955+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:34:58.955+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:34:58.955+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:34:59.070+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:35:02.322+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:35:02.327+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:42:27.008+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:42:27.175+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:42:31.094+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:42:51.508+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:42:51.584+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:42:51.652+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:42:51.653+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:42:51.654+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:42:51.654+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:42:51.655+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:42:51.782+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:42:55.070+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:42:55.072+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:42:55.105+1100 |[main]| INFO | Log | Username isF7OHCuPLa3sC
+2020-02-10T14:42:55.107+1100 |[main]| INFO | Log | Password is
+2020-02-10T14:42:55.746+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:42:55.747+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T14:47:23.799+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:47:23.936+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:47:27.489+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:47:44.911+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:47:44.967+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:47:45.015+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:47:45.016+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:47:45.016+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:47:45.016+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:47:45.017+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:47:45.100+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:47:49.904+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:47:49.907+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:47:49.944+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T14:47:49.945+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T14:47:50.737+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:47:50.738+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T14:47:58.454+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T14:47:58.454+1100 |[main]| INFO | Log | X
+2020-02-10T14:47:58.454+1100 |[main]| INFO | Log | X
+2020-02-10T14:47:58.454+1100 |[main]| INFO | Log | X
+2020-02-10T14:47:58.455+1100 |[main]| INFO | Log | X
+2020-02-10T14:53:13.920+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:13.951+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:13.954+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:13.957+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:14.044+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:53:17.697+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:53:36.016+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:36.100+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:53:36.104+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:53:38.748+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:53:58.629+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:53:58.638+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:53:58.639+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:54:01.389+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:54:20.305+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:54:20.311+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:54:20.312+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T14:54:23.594+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T14:54:39.318+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:54:39.325+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T14:54:39.397+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:54:39.397+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:54:39.397+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:54:39.398+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:54:39.398+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:54:39.617+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:54:43.947+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:54:43.950+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:54:44.010+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T14:54:44.011+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T14:56:24.104+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:56:24.106+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:56:24.107+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:56:24.107+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:56:24.107+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:56:24.220+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:56:29.222+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:56:29.223+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:56:29.224+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T14:56:29.225+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T14:56:29.294+1100 |[main]| INFO | Log | Password is123456
+2020-02-10T14:58:09.337+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:58:09.338+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:58:09.339+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:58:09.339+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:58:09.340+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:58:09.437+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:58:32.356+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:58:32.362+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:58:32.363+1100 |[main]| INFO | Log | Username isUSER
+2020-02-10T14:58:32.364+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T14:58:33.063+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:58:33.064+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T14:59:23.112+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:59:23.115+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:59:23.115+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T14:59:23.116+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:59:23.116+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T14:59:23.240+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T14:59:27.271+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T14:59:27.272+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T14:59:32.828+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T14:59:32.832+1100 |[main]| INFO | Log | X
+2020-02-10T14:59:32.832+1100 |[main]| INFO | Log | X
+2020-02-10T14:59:32.833+1100 |[main]| INFO | Log | X
+2020-02-10T14:59:32.833+1100 |[main]| INFO | Log | X
+2020-02-10T14:59:33.034+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T15:00:43.908+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:00:44.025+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:00:47.761+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:01:06.060+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:01:06.104+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:01:06.154+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:01:06.155+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:01:06.156+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:01:06.156+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:01:06.156+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:01:06.709+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:01:09.502+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:01:09.504+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:02:48.528+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:02:48.604+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:02:51.479+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:03:06.255+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:06.302+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:03:07.729+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:07.729+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:07.729+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:03:07.729+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:07.730+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:07.823+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:03:10.970+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:10.974+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:03:11.004+1100 |[main]| INFO | Log | Username isUSER
+2020-02-10T15:03:11.006+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T15:03:11.694+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:11.695+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:03:17.212+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:03:17.212+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:17.212+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:17.212+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:17.213+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:30.873+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:30.963+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:03:33.750+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:03:46.319+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:46.384+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:03:47.223+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:47.224+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:47.224+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:03:47.224+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:47.224+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:03:47.323+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:03:51.278+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:03:51.282+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:03:51.283+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T15:03:51.303+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T15:03:51.335+1100 |[main]| INFO | Log | Password is123456
+2020-02-10T15:03:55.128+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-10T15:03:55.129+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:03:55.129+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:55.129+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:55.130+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:55.130+1100 |[main]| INFO | Log | X
+2020-02-10T15:03:55.260+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T15:15:10.147+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:15:10.316+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:15:14.687+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:15:40.466+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:15:40.586+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:15:42.771+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T15:23:59.666+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:23:59.832+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:24:03.759+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:24:29.220+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:24:29.314+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:24:31.351+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:24:31.351+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:24:31.352+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:24:31.352+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:24:31.352+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:24:31.441+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:24:34.876+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:24:34.878+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:24:34.878+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T15:24:34.879+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T15:24:34.880+1100 |[main]| INFO | Log | Password is123456
+2020-02-10T15:24:37.751+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-10T15:24:37.751+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:24:37.751+1100 |[main]| INFO | Log | X
+2020-02-10T15:24:37.752+1100 |[main]| INFO | Log | X
+2020-02-10T15:24:37.752+1100 |[main]| INFO | Log | X
+2020-02-10T15:24:37.752+1100 |[main]| INFO | Log | X
+2020-02-10T15:24:37.888+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T15:32:28.066+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:32:28.225+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:32:32.026+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:33:04.085+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:33:04.161+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:33:06.098+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:33:06.099+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:33:06.099+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:33:06.100+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:33:06.100+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:33:06.293+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:33:09.705+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:33:09.707+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:33:09.708+1100 |[main]| INFO | Log | Username isUSER
+2020-02-10T15:33:09.708+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T15:33:10.446+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:33:10.447+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:35:05.438+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:35:05.586+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:35:08.942+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:35:24.481+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:35:24.551+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:35:26.108+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:35:26.109+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:35:26.109+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:35:26.109+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:35:26.109+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:35:26.259+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:35:31.531+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:35:31.533+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:35:31.534+1100 |[main]| INFO | Log | Username isUSER
+2020-02-10T15:35:31.535+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T15:35:32.247+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:35:32.251+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:36:54.261+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:36:54.387+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:36:57.520+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:37:16.226+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:37:16.274+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:37:16.314+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:37:16.315+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:37:16.315+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:37:16.316+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:37:16.316+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:37:16.561+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:37:20.725+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:37:20.729+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:37:20.732+1100 |[main]| INFO | Log | Username isCoach
+2020-02-10T15:37:20.733+1100 |[main]| INFO | Log | Password isF7OHCuPLa3sC
+2020-02-10T15:37:21.461+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:37:21.462+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:42:10.421+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:42:10.533+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:42:13.903+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:42:30.245+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:42:30.296+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:42:30.341+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:42:30.342+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:42:30.342+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:42:30.342+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:42:30.343+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:42:30.506+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:42:33.732+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:42:33.734+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:42:33.737+1100 |[main]| INFO | Log | Username isUser
+2020-02-10T15:42:33.739+1100 |[main]| INFO | Log | Password isii6d54YIfBfO
+2020-02-10T15:42:34.455+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T15:42:34.458+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:42:34.459+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:51:03.193+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:51:03.361+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:51:07.386+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:51:22.886+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:51:22.971+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:51:23.042+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:51:23.043+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:51:23.044+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:51:23.044+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:51:23.044+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:51:23.205+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:51:26.077+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:51:26.079+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:51:26.080+1100 |[main]| INFO | Log | Username is User
+2020-02-10T15:51:26.081+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T15:51:26.775+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T15:51:26.778+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:51:26.780+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:51:34.708+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:51:34.708+1100 |[main]| INFO | Log | X
+2020-02-10T15:51:34.708+1100 |[main]| INFO | Log | X
+2020-02-10T15:51:34.709+1100 |[main]| INFO | Log | X
+2020-02-10T15:51:34.709+1100 |[main]| INFO | Log | X
+2020-02-10T15:51:56.786+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:51:56.904+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:52:00.310+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:52:17.931+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:52:17.972+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:52:19.210+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:52:19.211+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:52:19.212+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:52:19.212+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:52:19.212+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:52:19.498+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:52:22.895+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:52:22.897+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:52:22.898+1100 |[main]| INFO | Log | Username is USER
+2020-02-10T15:52:22.899+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T15:53:46.467+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:53:46.562+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:53:49.140+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:54:08.793+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:54:08.841+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:54:10.259+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:54:10.260+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:54:10.260+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:54:10.260+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:54:10.260+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:54:10.445+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:54:13.493+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:54:13.496+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:54:13.497+1100 |[main]| INFO | Log | Username is USER
+2020-02-10T15:54:13.498+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T15:54:14.236+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T15:54:14.239+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:54:14.240+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T15:54:22.342+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:54:22.344+1100 |[main]| INFO | Log | X
+2020-02-10T15:54:22.345+1100 |[main]| INFO | Log | X
+2020-02-10T15:54:22.345+1100 |[main]| INFO | Log | X
+2020-02-10T15:54:22.345+1100 |[main]| INFO | Log | X
+2020-02-10T15:56:21.617+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:56:21.691+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T15:56:24.813+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T15:56:41.016+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:56:41.063+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T15:56:42.709+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:56:42.710+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:56:42.711+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T15:56:42.712+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:56:42.713+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T15:56:42.974+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T15:56:47.478+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T15:56:47.481+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T15:56:47.482+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T15:56:47.484+1100 |[main]| INFO | Log | Username is User
+2020-02-10T15:56:47.485+1100 |[main]| INFO | Log | Password is 123456
+2020-02-10T15:56:48.172+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T15:56:51.077+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-10T15:56:51.078+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T15:56:51.079+1100 |[main]| INFO | Log | X
+2020-02-10T15:56:51.079+1100 |[main]| INFO | Log | X
+2020-02-10T15:56:51.079+1100 |[main]| INFO | Log | X
+2020-02-10T15:56:51.079+1100 |[main]| INFO | Log | X
+2020-02-10T15:56:51.187+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T16:30:10.608+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:10.656+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:10.659+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:10.662+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:10.789+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:30:14.800+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:30:34.533+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:34.597+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:30:36.601+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:30:38.812+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:30:53.113+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:30:53.118+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:30:53.206+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:30:55.824+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:31:24.122+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:31:24.130+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:31:24.130+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:31:26.491+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:31:53.163+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:31:53.171+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:31:53.391+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:31:53.391+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:31:53.392+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:31:53.392+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:31:53.392+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:31:53.756+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:32:00.882+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:32:00.887+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:32:00.891+1100 |[main]| INFO | Log | Username is User
+2020-02-10T16:32:00.892+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T16:33:40.983+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:33:40.986+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:33:40.986+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:33:40.987+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:33:40.987+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:33:41.076+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:33:47.069+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:33:47.074+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:33:47.075+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T16:33:47.076+1100 |[main]| INFO | Log | Username is User
+2020-02-10T16:33:47.077+1100 |[main]| INFO | Log | Password is 123456
+2020-02-10T16:35:27.149+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:27.152+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:27.152+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:35:27.152+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:27.152+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:27.240+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:35:33.413+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:35:33.416+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:35:33.416+1100 |[main]| INFO | Log | Username is USER
+2020-02-10T16:35:33.417+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T16:35:34.127+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T16:35:34.130+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:35:34.131+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T16:35:41.482+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T16:35:41.484+1100 |[main]| INFO | Log | X
+2020-02-10T16:35:41.484+1100 |[main]| INFO | Log | X
+2020-02-10T16:35:41.484+1100 |[main]| INFO | Log | X
+2020-02-10T16:35:41.484+1100 |[main]| INFO | Log | X
+2020-02-10T16:35:41.496+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:41.497+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:41.497+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:35:41.498+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:41.498+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:35:41.609+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:35:49.972+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:35:49.975+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:36:40.148+1100 |[main]| INFO | Log | Closing the driver
+2020-02-10T16:51:28.742+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:51:28.803+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:51:28.805+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:51:28.808+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:51:28.946+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:51:33.020+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:51:57.788+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:51:57.882+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:51:59.811+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:52:02.024+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:52:35.267+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:52:35.273+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:52:35.428+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:52:38.028+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:53:04.526+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:53:04.533+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:53:04.535+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-10T16:53:07.517+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-10T16:53:35.845+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:53:35.849+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-10T16:53:36.029+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:53:36.030+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:53:36.030+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:53:36.032+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:53:36.033+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:53:36.404+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:53:41.282+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:53:41.287+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:53:41.288+1100 |[main]| INFO | Log | Username is User
+2020-02-10T16:53:41.289+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T16:55:21.425+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:55:21.428+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:55:21.428+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:55:21.429+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:55:21.429+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:55:21.534+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:55:25.487+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:55:25.488+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:55:25.489+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-10T16:55:25.489+1100 |[main]| INFO | Log | Username is User
+2020-02-10T16:55:25.490+1100 |[main]| INFO | Log | Password is 123456
+2020-02-10T16:57:05.562+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:05.568+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:05.568+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:57:05.569+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:05.569+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:05.687+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:57:13.889+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:57:13.892+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:57:13.893+1100 |[main]| INFO | Log | Username is USER
+2020-02-10T16:57:13.894+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-10T16:57:14.634+1100 |[main]| INFO | Log | Signing into the application
+2020-02-10T16:57:14.638+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:57:14.639+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-10T16:57:21.426+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-10T16:57:21.428+1100 |[main]| INFO | Log | X
+2020-02-10T16:57:21.429+1100 |[main]| INFO | Log | X
+2020-02-10T16:57:21.429+1100 |[main]| INFO | Log | X
+2020-02-10T16:57:21.429+1100 |[main]| INFO | Log | X
+2020-02-10T16:57:21.442+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:21.442+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:21.442+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-10T16:57:21.442+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:21.442+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-10T16:57:21.655+1100 |[main]| INFO | Log | Popup is closed
+2020-02-10T16:57:27.476+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-10T16:57:27.482+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-10T16:58:17.654+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T10:52:56.975+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:52:57.147+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T10:53:01.528+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T10:53:18.724+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:53:18.807+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T10:53:20.819+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:53:20.820+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:53:20.820+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T10:53:20.820+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:53:20.820+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:53:20.918+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T10:53:24.243+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:53:24.245+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T10:53:24.245+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T10:53:24.246+1100 |[main]| INFO | Log | Username is User
+2020-02-11T10:53:24.248+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T10:53:24.980+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T10:53:27.770+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-11T10:53:27.770+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T10:53:27.771+1100 |[main]| INFO | Log | X
+2020-02-11T10:53:27.771+1100 |[main]| INFO | Log | X
+2020-02-11T10:53:27.772+1100 |[main]| INFO | Log | X
+2020-02-11T10:53:27.772+1100 |[main]| INFO | Log | X
+2020-02-11T10:53:27.912+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T10:53:41.881+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:53:42.002+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T10:53:45.624+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T10:54:05.573+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:05.638+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T10:54:07.655+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:07.655+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:07.656+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T10:54:07.656+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:07.656+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:07.829+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T10:54:10.584+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:10.586+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T10:54:16.254+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T10:54:16.256+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:16.257+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:16.257+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:16.257+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:27.863+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:27.984+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T10:54:31.126+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T10:54:45.709+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:45.763+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T10:54:47.269+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:47.269+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:47.270+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T10:54:47.270+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:47.271+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T10:54:47.434+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T10:54:50.698+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:50.700+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T10:54:50.701+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T10:54:50.702+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T10:54:51.417+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T10:54:51.420+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:54:51.421+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T10:54:57.823+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T10:54:57.823+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:57.823+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:57.823+1100 |[main]| INFO | Log | X
+2020-02-11T10:54:57.824+1100 |[main]| INFO | Log | X
+2020-02-11T10:59:50.345+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T10:59:50.491+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T10:59:54.405+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:00:09.749+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:00:09.824+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:00:09.864+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:00:09.865+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:00:09.865+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:00:09.865+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:00:09.866+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:00:10.057+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:00:15.753+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:00:15.755+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:00:15.756+1100 |[main]| INFO | Log | Username is User
+2020-02-11T11:00:15.757+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T11:00:16.452+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T11:00:16.455+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:00:16.456+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T11:02:15.024+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:02:15.137+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:02:18.219+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:02:33.379+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:02:33.432+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:02:33.477+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:02:33.478+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:02:33.478+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:02:33.479+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:02:33.479+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:02:33.683+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:02:36.768+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:02:36.770+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:02:36.772+1100 |[main]| INFO | Log | Username is User
+2020-02-11T11:02:36.772+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T11:02:37.505+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T11:02:37.508+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:02:37.509+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T11:02:44.388+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T11:02:44.390+1100 |[main]| INFO | Log | X
+2020-02-11T11:02:44.391+1100 |[main]| INFO | Log | X
+2020-02-11T11:02:44.391+1100 |[main]| INFO | Log | X
+2020-02-11T11:02:44.391+1100 |[main]| INFO | Log | X
+2020-02-11T11:18:27.287+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:19:21.766+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:21:22.819+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:21:24.835+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:21:28.453+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:24:55.486+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:24:57.500+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:25:01.333+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:25:35.529+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:25:35.617+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:25:35.705+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:25:35.708+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:25:35.708+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Valid_Credentials Test case execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:25:35.709+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:25:35.709+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:25:36.156+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:25:40.446+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:25:40.450+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:25:40.452+1100 |[main]| INFO | Log | Username is User
+2020-02-11T11:25:40.453+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T11:25:41.155+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T11:25:41.158+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:25:41.159+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T11:25:48.635+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T11:25:48.636+1100 |[main]| INFO | Log | X
+2020-02-11T11:25:48.636+1100 |[main]| INFO | Log | X
+2020-02-11T11:25:48.636+1100 |[main]| INFO | Log | X
+2020-02-11T11:25:48.637+1100 |[main]| INFO | Log | X
+2020-02-11T11:31:41.024+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:31:42.649+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:31:46.148+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:32:02.253+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:32:02.322+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:32:02.376+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:32:02.376+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:32:02.377+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:32:02.377+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:32:02.377+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:32:02.967+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:32:06.203+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:32:06.206+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:32:06.207+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T11:32:06.208+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T11:32:06.946+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T11:32:06.949+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:32:06.950+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T11:32:15.508+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T11:32:15.511+1100 |[main]| INFO | Log | X
+2020-02-11T11:32:15.511+1100 |[main]| INFO | Log | X
+2020-02-11T11:32:15.511+1100 |[main]| INFO | Log | X
+2020-02-11T11:32:15.512+1100 |[main]| INFO | Log | X
+2020-02-11T11:33:41.156+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:37:15.153+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:38:13.036+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:38:14.978+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:38:18.652+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:38:30.160+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:38:30.286+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:38:30.481+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:38:30.481+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:38:30.482+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:38:30.482+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:38:30.482+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:38:30.799+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:38:34.498+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:38:34.500+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:38:34.500+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T11:38:34.501+1100 |[main]| INFO | Log | Username is User
+2020-02-11T11:38:34.502+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T11:38:35.191+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T11:38:38.654+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-11T11:38:38.654+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T11:38:38.654+1100 |[main]| INFO | Log | X
+2020-02-11T11:38:38.654+1100 |[main]| INFO | Log | X
+2020-02-11T11:38:38.655+1100 |[main]| INFO | Log | X
+2020-02-11T11:38:38.655+1100 |[main]| INFO | Log | X
+2020-02-11T11:38:38.786+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T11:39:55.171+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:39:56.852+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T11:40:00.277+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T11:40:13.001+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:40:13.066+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T11:40:13.113+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:40:13.115+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:40:13.116+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_click_the_forgot_password_button_and_reset_the_credentials Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T11:40:13.117+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:40:13.118+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T11:40:13.643+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T11:40:25.536+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T11:40:25.541+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T11:40:34.534+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T11:40:34.534+1100 |[main]| INFO | Log | X
+2020-02-11T11:40:34.534+1100 |[main]| INFO | Log | X
+2020-02-11T11:40:34.535+1100 |[main]| INFO | Log | X
+2020-02-11T11:40:34.535+1100 |[main]| INFO | Log | X
+2020-02-11T12:03:43.400+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:03:45.411+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:03:49.349+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:04:12.601+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:04:12.696+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:04:12.932+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:04:12.932+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:04:12.932+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:04:12.933+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:04:12.933+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:04:13.251+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:04:16.675+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:04:16.677+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:04:16.677+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:04:16.678+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:04:16.679+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:04:17.428+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:04:20.112+1100 |[main]| ERROR | Log | The messages are not the same
+2020-02-11T12:04:20.113+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T12:04:20.113+1100 |[main]| INFO | Log | X
+2020-02-11T12:04:20.113+1100 |[main]| INFO | Log | X
+2020-02-11T12:04:20.114+1100 |[main]| INFO | Log | X
+2020-02-11T12:04:20.114+1100 |[main]| INFO | Log | X
+2020-02-11T12:04:20.255+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:06:21.133+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:06:22.811+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:06:26.203+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:06:47.983+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:06:48.049+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:06:48.247+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:06:48.248+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:06:48.248+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:06:48.248+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:06:48.249+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:06:48.655+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:06:51.917+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:06:51.921+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:06:51.921+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:06:51.922+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:06:51.924+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:06:53.440+1100 |[main]| ERROR | Log | Unable to sign into the application
+2020-02-11T12:08:15.632+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:08:17.299+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:08:20.403+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:08:34.014+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:08:34.071+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:08:34.208+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:08:34.208+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:08:34.208+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:08:34.209+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:08:34.209+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:08:34.656+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:08:38.208+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:08:38.211+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:08:38.211+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:08:38.212+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:08:38.213+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:08:38.914+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:08:41.302+1100 |[main]| INFO | Log | The expected alert message isWrong username or password.
+2020-02-11T12:08:41.302+1100 |[main]| INFO | Log | The alert message obtained is
+2020-02-11T12:08:41.304+1100 |[main]| ERROR | Log | The messages are not the same
+2020-02-11T12:08:41.304+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T12:08:41.305+1100 |[main]| INFO | Log | X
+2020-02-11T12:08:41.305+1100 |[main]| INFO | Log | X
+2020-02-11T12:08:41.305+1100 |[main]| INFO | Log | X
+2020-02-11T12:08:41.305+1100 |[main]| INFO | Log | X
+2020-02-11T12:08:41.431+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:13:48.913+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:13:50.990+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:13:55.053+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:14:13.584+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:14:13.651+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:14:13.957+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:14:13.959+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:14:13.960+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:14:13.960+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:14:13.961+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:14:14.207+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:14:19.658+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:14:19.665+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:14:19.665+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:14:19.667+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:14:19.668+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:14:20.423+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:14:41.098+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:17:35.210+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:17:36.940+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:17:40.518+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:17:56.252+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:17:56.347+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:17:56.658+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:17:56.660+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:17:56.660+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:17:56.661+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:17:56.661+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:17:56.880+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:17:59.846+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:17:59.849+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:17:59.850+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:17:59.851+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:17:59.852+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:18:00.609+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:18:04.130+1100 |[main]| INFO | Log | The expected alert message isWrong username or password.
+2020-02-11T12:18:04.131+1100 |[main]| INFO | Log | The alert message obtained is
+2020-02-11T12:18:04.134+1100 |[main]| ERROR | Log | The messages are not the same
+2020-02-11T12:18:04.135+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T12:18:04.135+1100 |[main]| INFO | Log | X
+2020-02-11T12:18:04.135+1100 |[main]| INFO | Log | X
+2020-02-11T12:18:04.136+1100 |[main]| INFO | Log | X
+2020-02-11T12:18:04.136+1100 |[main]| INFO | Log | X
+2020-02-11T12:18:04.274+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:22:17.409+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:22:19.075+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:22:22.639+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:22:35.280+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:22:35.341+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:22:35.641+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:22:35.646+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:22:35.646+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:22:35.646+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:22:35.647+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:22:35.912+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:22:41.209+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:22:41.212+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:22:41.212+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:22:41.213+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:22:41.214+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:22:41.941+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:22:41.944+1100 |[main]| INFO | Log | The expected alert message is
+2020-02-11T12:22:44.334+1100 |[main]| INFO | Log | The alert message obtained isWrong username or password.
+2020-02-11T12:22:44.346+1100 |[main]| ERROR | Log | The messages are not the same
+2020-02-11T12:22:44.347+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T12:22:44.347+1100 |[main]| INFO | Log | X
+2020-02-11T12:22:44.347+1100 |[main]| INFO | Log | X
+2020-02-11T12:22:44.347+1100 |[main]| INFO | Log | X
+2020-02-11T12:22:44.348+1100 |[main]| INFO | Log | X
+2020-02-11T12:22:44.524+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:25:21.917+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:25:23.971+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:25:27.928+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:25:41.931+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:25:42.034+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:25:42.282+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:25:42.283+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:25:42.284+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 Verify_Sign_On_With_Invalid_Password Testcase execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:25:42.284+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:25:42.285+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:25:42.571+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:25:45.857+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:25:45.859+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:25:45.860+1100 |[main]| INFO | Log | Object of Login Page is created
+2020-02-11T12:25:45.861+1100 |[main]| INFO | Log | Username is User
+2020-02-11T12:25:45.862+1100 |[main]| INFO | Log | Password is 123456
+2020-02-11T12:25:46.615+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:25:46.616+1100 |[main]| INFO | Log | The expected alert message isWrong username or password.
+2020-02-11T12:25:49.002+1100 |[main]| INFO | Log | The alert message obtained isWrong username or password.
+2020-02-11T12:25:49.007+1100 |[main]| INFO | Log | The message is matching. Error message displayed is correct
+2020-02-11T12:25:49.008+1100 |[main]| INFO | Log | XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-02-11T12:25:49.008+1100 |[main]| INFO | Log | X
+2020-02-11T12:25:49.008+1100 |[main]| INFO | Log | X
+2020-02-11T12:25:49.009+1100 |[main]| INFO | Log | X
+2020-02-11T12:25:49.009+1100 |[main]| INFO | Log | X
+2020-02-11T12:25:49.164+1100 |[main]| INFO | Log | Closing the driver
+2020-02-11T12:29:13.953+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:29:15.641+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:29:19.310+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:29:32.588+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:29:32.675+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:29:32.786+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:29:32.787+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:29:32.789+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:29:32.790+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:29:32.790+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:29:33.188+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:29:38.439+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:29:38.440+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:29:38.441+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:29:38.442+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:29:39.176+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:29:39.179+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:29:39.179+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:29:46.658+1100 |[main]| INFO | Log | The expected alert message isLogin successful,redirecting…
+2020-02-11T12:33:50.986+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:33:53.037+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:33:57.052+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:34:08.582+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:34:08.674+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:34:08.761+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:34:08.761+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:34:08.762+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:34:08.763+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:34:08.764+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:34:09.234+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:34:13.574+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:34:13.576+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:34:13.577+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:34:13.578+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:34:14.307+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:34:14.309+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:34:14.310+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:35:22.339+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:35:23.968+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:35:27.365+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:35:40.967+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:35:41.065+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:35:41.118+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:35:41.119+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:35:41.120+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:35:41.120+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:35:41.121+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:35:41.547+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:35:45.552+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:35:45.553+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:35:45.554+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:35:45.555+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:35:46.232+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:35:46.236+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:35:46.236+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:39:09.878+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:39:11.468+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:39:14.729+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:39:38.488+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:39:38.549+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:39:38.604+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:39:38.607+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:39:38.610+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:39:38.611+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:39:38.612+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:39:39.142+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:39:43.685+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:39:43.689+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:39:43.690+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:39:43.691+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:39:44.453+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:39:44.460+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:39:44.461+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:42:49.816+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:42:51.367+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:42:54.586+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:43:07.075+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:43:07.135+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:43:07.205+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:43:07.207+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:43:07.209+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:43:07.211+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:43:07.211+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:43:07.764+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:43:10.970+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:43:10.973+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:43:10.976+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:43:10.977+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:43:11.696+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:43:11.699+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:43:11.700+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:45:18.812+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:45:20.384+1100 |[main]| INFO | Log | lauching chrome driver
+2020-02-11T12:45:23.432+1100 |[main]| INFO | Log | Launching adactin hotel web page in chrome browser
+2020-02-11T12:45:35.396+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:45:35.444+1100 |[main]| INFO | Log | Initializing the dashboard page
+2020-02-11T12:45:35.502+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:45:35.503+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:45:35.503+1100 |[main]| INFO | Log | $$$$$$$$$$$$$$$$$$$$$                 To_verify_if_client_is_able_to_login_to_the_application_with_case_insensitive_user_name execution started       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-02-11T12:45:35.504+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:45:35.504+1100 |[main]| INFO | Log | ****************************************************************************************
+2020-02-11T12:45:36.026+1100 |[main]| INFO | Log | Popup is closed
+2020-02-11T12:45:38.912+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:45:38.914+1100 |[main]| INFO | Log | Initializing the Login Page
+2020-02-11T12:45:38.915+1100 |[main]| INFO | Log | Username is USER
+2020-02-11T12:45:38.916+1100 |[main]| INFO | Log | Password is ii6d54YIfBfO
+2020-02-11T12:45:39.581+1100 |[main]| INFO | Log | Signing into the application
+2020-02-11T12:45:39.584+1100 |[main]| INFO | Log | invoking baseclass constructor
+2020-02-11T12:45:39.585+1100 |[main]| INFO | Log | Initializing Home page
+2020-02-11T12:45:47.749+1100 |[main]| INFO | Log | The expected alert message isLogin successful,redirecting…

@@ -1,0 +1,9 @@
+[main] INFO  adactin.urbest.base.BaseClass  - lauching chrome driver
+[main] INFO  adactin.urbest.base.BaseClass  - lauching chrome driver
+[main] INFO  adactin.urbest.base.BaseClass  - invoking baseclass constructor
+[main] INFO  adactin.urbest.base.BaseClass  - lauching chrome driver
+[main] INFO  adactin.urbest.base.BaseClass  - invoking baseclass constructor
+[main] INFO  adactin.urbest.base.BaseClass  - invoking baseclass constructor
+[main] INFO  adactin.urbest.base.BaseClass  - lauching chrome driver
+[main] INFO  adactin.urbest.webpages.Dashboard  - Initializing the dashboard page
+[main] INFO  adactin.urbest.webpages.Dashboard  - Popup is closed
